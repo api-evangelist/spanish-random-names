@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://random-names-api.herokuapp.com/public
 common:
+  - type: DomainSecurity
+    url: security/spanish-random-names-domain-security.yml
   - type: Website
     url: https://random-names-api.herokuapp.com/public
   - type: PublicAPIsListing
